@@ -1,0 +1,3 @@
+Co je elementární objekt tabulky, co je jeden objekt, jaké jsou míry a kde jsou.
+Zakladni jednotka je něco co se neopakuje.
+Literál nemuže být hodnota dimenze.
