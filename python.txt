@@ -1,8 +1,0 @@
-Python ( anglicka vyslovnost [ˈpaijtn]) j e v ysokoúrovňový s kriptovací
-programovací j azyk, k terý v r oce 1 991 n avrhl G uido v an R ossum. N abízí
-dynamickou kontrolu d atových t ypů a p odporuje r ůzná p rogramovací
-paradigmata, v četně o bjektově o rientovaného, i mperativního,
-procedurálního n ebo f unkcionálního. V r oce 2 018 v zrostla j eho
-popularita a z ařadil s e m ezi nejoblíbenější j azyky. V ř adě r ůzných
-žebříčků dosahuje jedno z prvních třech míst, výjimkou n ebývají první
-místa.
